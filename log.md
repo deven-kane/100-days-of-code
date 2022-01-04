@@ -9,22 +9,9 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 3, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Starting from the beginning with primitives and definitions.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts:** Well, here I am again for the third time starting from the ground up. Each time I have given up or not really put in the effort; this time I hope that it'll be different. I really plan to work hard and make this into a career. I want to accomplish something in my life that isn't arbitrary. After watching Gary work so tirelessly and turn his life around for the better all I can think of is how I don't want to be left behind. 
+I know this will be a tough journey and I'm finally ready. With that, heres to #100-days-of-coding and more. 
