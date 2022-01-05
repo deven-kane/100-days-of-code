@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
+
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -13,5 +14,11 @@
 
 **Today's Progress**: Starting from the beginning with primitives and definitions.
 
-**Thoughts:** Well, here I am again for the third time starting from the ground up. Each time I have given up or not really put in the effort; this time I hope that it'll be different. I really plan to work hard and make this into a career. I want to accomplish something in my life that isn't arbitrary. After watching Gary work so tirelessly and turn his life around for the better all I can think of is how I don't want to be left behind. 
-I know this will be a tough journey and I'm finally ready. With that, heres to #100-days-of-coding and more. 
+**Thoughts:** Well, here I am again for the third time starting from the ground up. Each time I have given up or not really put in the effort; this time I hope that it'll be different. I really plan to work hard and make this into a career. I want to accomplish something in my life that isn't arbitrary. After watching Gary work so tirelessly and turn his life around for the better all I can think of is how I don't want to be left behind.
+I know this will be a tough journey and I'm finally ready. With that, heres to #100-days-of-coding and more.
+
+### Day 2: January 4, 2022
+
+**Today's Progress**: Finished definitions and started turning them into flashcards via Anki.
+
+**Thoughts:** Day two was a bit more optomistic. I know that I have yet to actually start programming as I am trying to wrap my head around the basics but in reveiwing I did have some bits of lost knowledge pop into my head. It was great to see not everything was lost just buried and forgotten temporarily. #100-days-of coding
